@@ -1,4 +1,4 @@
-package domain;
+package com.sam.tutorial.flink.domain;
 
 import java.util.Objects;
 
